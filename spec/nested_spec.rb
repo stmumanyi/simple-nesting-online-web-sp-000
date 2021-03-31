@@ -8,6 +8,7 @@ describe "nested hash" do
 
     end
   end
+  mactrices 
 
   describe "#alan_kay_is_known_for" do
     it "operates on the programmer_hash and returns the value of what Alan Kay is known for" do 
